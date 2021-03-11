@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace InheritanceClasses
 {
-    class Kitchen
+    public class Kitchen : House
     {
+        public Kitchen()
+        {
+            SquareFeet = 500;
+            Flooring = FloorType.Wood;
+        }
+        public int NumberOfAppliance { get; set; }
+        public bool HasAnIsland { get; set; }
+        public string GoodPartySpace { get; set; }
     }
 }
