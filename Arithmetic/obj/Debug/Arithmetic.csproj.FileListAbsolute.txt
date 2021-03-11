@@ -1,0 +1,14 @@
+C:\Users\jrstu\source\repos\Gold Badge Spring\Arithmetic\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jrstu\source\repos\Gold Badge Spring\Arithmetic\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jrstu\source\repos\Gold Badge Spring\Arithmetic\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jrstu\source\repos\Gold Badge Spring\Arithmetic\bin\Debug\Arithmetic.dll
+C:\Users\jrstu\source\repos\Gold Badge Spring\Arithmetic\bin\Debug\Arithmetic.pdb
+C:\Users\jrstu\source\repos\Gold Badge Spring\Arithmetic\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jrstu\source\repos\Gold Badge Spring\Arithmetic\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jrstu\source\repos\Gold Badge Spring\Arithmetic\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jrstu\source\repos\Gold Badge Spring\Arithmetic\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jrstu\source\repos\Gold Badge Spring\Arithmetic\obj\Debug\Arithmetic.csprojAssemblyReference.cache
+C:\Users\jrstu\source\repos\Gold Badge Spring\Arithmetic\obj\Debug\Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\jrstu\source\repos\Gold Badge Spring\Arithmetic\obj\Debug\Arithmetic.csproj.CopyComplete
+C:\Users\jrstu\source\repos\Gold Badge Spring\Arithmetic\obj\Debug\Arithmetic.dll
+C:\Users\jrstu\source\repos\Gold Badge Spring\Arithmetic\obj\Debug\Arithmetic.pdb

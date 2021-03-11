@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTypes", "ValueTypes\Va
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditionals\Conditionals.csproj", "{554B275F-EB1C-4D12-B0B1-1330E57F3F78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopExample", "LoopExample\LoopExample.csproj", "{6B574BBB-F330-4218-93FA-82D517F8D156}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Morning Challenges", "Morning Challenges\Morning Challenges.csproj", "{557E322B-37F1-45D4-B5EF-D5246033F83B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{554B275F-EB1C-4D12-B0B1-1330E57F3F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{554B275F-EB1C-4D12-B0B1-1330E57F3F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{554B275F-EB1C-4D12-B0B1-1330E57F3F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B574BBB-F330-4218-93FA-82D517F8D156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B574BBB-F330-4218-93FA-82D517F8D156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B574BBB-F330-4218-93FA-82D517F8D156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B574BBB-F330-4218-93FA-82D517F8D156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{557E322B-37F1-45D4-B5EF-D5246033F83B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557E322B-37F1-45D4-B5EF-D5246033F83B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557E322B-37F1-45D4-B5EF-D5246033F83B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557E322B-37F1-45D4-B5EF-D5246033F83B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

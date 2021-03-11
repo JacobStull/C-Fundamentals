@@ -1,0 +1,14 @@
+C:\Users\jrstu\source\repos\Gold Badge Spring\LoopExample\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jrstu\source\repos\Gold Badge Spring\LoopExample\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jrstu\source\repos\Gold Badge Spring\LoopExample\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jrstu\source\repos\Gold Badge Spring\LoopExample\bin\Debug\LoopExample.dll
+C:\Users\jrstu\source\repos\Gold Badge Spring\LoopExample\bin\Debug\LoopExample.pdb
+C:\Users\jrstu\source\repos\Gold Badge Spring\LoopExample\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jrstu\source\repos\Gold Badge Spring\LoopExample\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jrstu\source\repos\Gold Badge Spring\LoopExample\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jrstu\source\repos\Gold Badge Spring\LoopExample\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jrstu\source\repos\Gold Badge Spring\LoopExample\obj\Debug\LoopExample.csprojAssemblyReference.cache
+C:\Users\jrstu\source\repos\Gold Badge Spring\LoopExample\obj\Debug\LoopExample.csproj.CoreCompileInputs.cache
+C:\Users\jrstu\source\repos\Gold Badge Spring\LoopExample\obj\Debug\LoopExample.csproj.CopyComplete
+C:\Users\jrstu\source\repos\Gold Badge Spring\LoopExample\obj\Debug\LoopExample.dll
+C:\Users\jrstu\source\repos\Gold Badge Spring\LoopExample\obj\Debug\LoopExample.pdb
